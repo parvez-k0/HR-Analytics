@@ -6,22 +6,33 @@
 The primary objective of this project was to track and analyze key HR metrics for better workforce management.
 ## Key Performance Indicators (KPIs):
 **1️⃣ Presence %:** The overall attendance rate of employees.
+
 **2️⃣ WFH %:** Percentage of work-from-home days across the organization.
+
 **3️⃣ Sick Leave %:** Proportion of total sick leave taken by employees.
+
 **4️⃣ Total Working Days:** The total number of working days across all employees.
+
 **5️⃣ Present Days:** Number of days employees were present in the office.
 
 **Additional Metrics Monitored:**
-**•	Daily Trends:** Presence, WFH, and sick leave trends over time.
+**•	Daily Trends:** Presence, WFH, and sick leave trends over time. 
+
 **•	Day-of-Week Analysis:** Average presence, WFH, and sick leave percentages by weekday.
+
 **•	Employee-Level Details:** Individual presence %, WFH %, and sick leave %.
+
 **•	Detailed Logs:** Daily records of attendance, WFH, and sick leave.
+
 
 ## Steps Taken to Solve This
 **1️⃣ Data Preparation**
 •	Consolidated raw employee attendance data, WFH logs, and sick leave records.
+
 •	Cleaned and transformed the dataset for better usability in Power BI.
+
 •	Added calculated fields for metrics like Presence %, WFH %, and Sick Leave %.
+
 **2️⃣ Dashboard Design**
 •	Designed an intuitive layout with:
 o	KPIs at the top for quick insights.
