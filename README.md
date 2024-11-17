@@ -4,6 +4,7 @@
 
 ## Requirements & KPIs
 The primary objective of this project was to track and analyze key HR metrics for better workforce management.
+
 **1️⃣ Presence %:** The overall attendance rate of employees.
 
 **2️⃣ WFH %:** Percentage of work-from-home days across the organization.
